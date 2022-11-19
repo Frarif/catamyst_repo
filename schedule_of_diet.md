@@ -5,3 +5,9 @@ Monday
 - 2 eggs for breakfast
 - Eat usual for lunch
 - 2 eggs & oatmeal for dinner
+
+Tuesday
+
+- 2 eggs for breakfast
+- Eat usual for lunch
+- Chicken breasts for dinner
